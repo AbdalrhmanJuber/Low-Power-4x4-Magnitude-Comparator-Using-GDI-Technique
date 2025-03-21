@@ -1,4 +1,6 @@
 # Low Power 4x4 Magnitude Comparator Using GDI Technique
+![image](https://github.com/user-attachments/assets/d6e5804d-44ca-4b6b-bcc2-56cc2eedea1b)
+![image](https://github.com/user-attachments/assets/56a94cbe-1d9b-4d40-800f-fcb96b0cd436)
 
 ## Project Overview
 This project involves the design and implementation of a low-power 4x4 bit magnitude comparator using the Gate Diffusion Input (GDI) technique. The primary objective is to demonstrate significant improvements in terms of power consumption, propagation delay, and transistor count compared to conventional CMOS implementations.
